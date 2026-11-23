@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Gradasi Biru dari Palet Terbaru -->
+    <color name="ice_blue">#C5DFEF</color>
+    <color name="sky_blue">#8BB4DC</color>
+    <color name="deep_blue">#4B82B5</color>
+    <color name="navy_admin">#244F7A</color>
+
+    <!-- Gradasi Kuning & Emas Bunga Dahlia -->
+    <color name="soft_yellow">#FCEAB0</color>
+    <color name="dahlia_yellow">#FAC346</color>
+    <color name="amber_gold">#F39A27</color>
+
+    <!-- Latar Belakang & Teks -->
+    <color name="bg_light">#F5F9FC</color>
+    <color name="cream_surface">#FAF7F2</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="text_dark">#1A2B3C</color>
+    <color name="text_muted">#5C7085</color>
+    <color name="border_light">#DCE7F2</color>
+</resources>
