@@ -13,3 +13,10 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+.agents
+AGENTS.md
+SKILL.md
+SKILL (1).md
+SKILL (2).md
+
